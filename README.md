@@ -19,4 +19,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ten=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tataatat13&layout=compact)](https://github.com/Tataatat13/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tataatat13&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tataatat13&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=Tatatat13)
