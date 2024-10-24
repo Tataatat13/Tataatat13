@@ -5,7 +5,7 @@
  
  
 - 👀 I’m interested in web developt
-- 🌱 I’m currently learning Node
+- 🌱 I'm planning to learn Flutter
 - 💞️ I like learning something new and expanding my capabilities
   <h1>Skills</h1>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
